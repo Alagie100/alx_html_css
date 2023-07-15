@@ -1,1 +1,0 @@
-These are projects about flexbox
