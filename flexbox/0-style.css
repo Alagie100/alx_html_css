@@ -179,7 +179,7 @@
   
   /* Grid
       ============================= */
-.section-body{
+ul  {
   display: flex;
 }
   ul.row {
