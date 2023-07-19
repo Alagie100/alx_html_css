@@ -182,6 +182,7 @@
       ============================= */
   
   .section-body {
+   border: 2 px solid black;
     display: flex;
   }    
   ul.row {
