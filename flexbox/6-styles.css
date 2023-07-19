@@ -208,7 +208,7 @@
     text-align: center;
     display: flex;
   }
-   .navbar-menu {
+   .nav .nav-item + .nav-item {
     margin: 0;
   } 
   
