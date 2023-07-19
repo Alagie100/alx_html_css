@@ -201,9 +201,6 @@
   
   /* Navbar
       ============================= */
-  .navbar-menu {
-    margin: var(--nav-item-margin);
-  }
   
   .nav {
     margin: 0;
