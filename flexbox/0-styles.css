@@ -181,14 +181,13 @@
   /* Grid
       ============================= */
   
-  .section-body {
+  .section-body .row {
     display: flex;
   }    
   ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
-    display: flex;
   }
   
   
