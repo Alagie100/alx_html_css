@@ -181,7 +181,7 @@
   /* Grid
       ============================= */
   
-  .row {
+  .section-body {
     display: flex;
   }    
   ul.row {
